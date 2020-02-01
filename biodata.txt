@@ -1,3 +1,4 @@
 NPM : 1706023712
 Nama : Jasmine Nur Ariij
 Jurusan : Sistem Informasi
+Angkatan : 2017
